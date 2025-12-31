@@ -1,6 +1,6 @@
 //Write a program that takes an integer and checks whether the number is positive, negative, or zero.
 import java.util.*;
-public class PossitiveAndNeg{
+public class PossAndNeg{
     public static void main(String args[]){
       Scanner sc = new Scanner(System.in);
       System.out.print("Enter the number: ");
@@ -15,3 +15,4 @@ public class PossitiveAndNeg{
       sc.close();
     }
 }
+
